@@ -1,0 +1,902 @@
+[
+  {
+    "client": "Tobit Ryal",
+    "description": "septic leak",
+    "taskLocation": "Aimorés",
+    "taskType": "billing",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-09-18T18:50:45Z"
+  },
+  {
+    "client": "Barbabra Ransley",
+    "description": "garbage pickup",
+    "taskLocation": "Graz",
+    "taskType": "electrical",
+    "status": "rejected",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-07-16T21:06:29Z"
+  },
+  {
+    "client": "Anabel Parke",
+    "description": "replace appliances",
+    "taskLocation": "Liperi",
+    "taskType": "electrical",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-11-29T17:47:44Z"
+  },
+  {
+    "client": "Barnie Wykes",
+    "description": "garbage pickup",
+    "taskLocation": "Tsimlyansk",
+    "taskType": "hardware",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-08-30T13:12:49Z"
+  },
+  {
+    "client": "Ignacius Challiss",
+    "description": "replace appliances",
+    "taskLocation": "Tuopu",
+    "taskType": "electrical",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-10-11T21:42:01Z"
+  },
+  {
+    "client": "Dean Lusty",
+    "description": "tree removal",
+    "taskLocation": "Neob",
+    "taskType": "billing",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-09-22T13:57:56Z"
+  },
+  {
+    "client": "Osborne Munden",
+    "description": "septic leak",
+    "taskLocation": "Michałowice",
+    "taskType": "groundskeeping",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-07-23T16:01:55Z"
+  },
+  {
+    "client": "Godart Brimmacombe",
+    "description": "replace locks",
+    "taskLocation": "Delgado",
+    "taskType": "undefined",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-07-28T04:20:21Z"
+  },
+  {
+    "client": "Myranda Bampkin",
+    "description": "replace appliances",
+    "taskLocation": "Nazran’",
+    "taskType": "groundskeeping",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-12-27T18:05:59Z"
+  },
+  {
+    "client": "Madalena Crab",
+    "description": "replace locks",
+    "taskLocation": "Dubrava",
+    "taskType": "billing",
+    "status": "rejected",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-12-09T14:44:38Z"
+  },
+  {
+    "client": "Fifi Sweetman",
+    "description": "tree removal",
+    "taskLocation": "London",
+    "taskType": "undefined",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-12-06T17:42:15Z"
+  },
+  {
+    "client": "Halli Stiling",
+    "description": "drywall patch",
+    "taskLocation": "Mingyu",
+    "taskType": "hardware",
+    "status": "rejected",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-07-01T07:42:39Z"
+  },
+  {
+    "client": "Tremayne Mell",
+    "description": "garbage pickup",
+    "taskLocation": "Llauta",
+    "taskType": "groundskeeping",
+    "status": "rejected",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-12-05T02:31:17Z"
+  },
+  {
+    "client": "Mallory Allflatt",
+    "description": "roof repair",
+    "taskLocation": "Jian’ou",
+    "taskType": "hardware",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-09-11T23:58:16Z"
+  },
+  {
+    "client": "Mariam Manger",
+    "description": "septic leak",
+    "taskLocation": "Cimaung Kidul",
+    "taskType": "hardware",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-07-07T04:40:38Z"
+  },
+  {
+    "client": "Lorettalorna Fasse",
+    "description": "property walk through",
+    "taskLocation": "Spytkowice",
+    "taskType": "groundskeeping",
+    "status": "rejected",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-08-05T06:46:44Z"
+  },
+  {
+    "client": "Berkley Gendricke",
+    "description": "eviction notice",
+    "taskLocation": "Rukaj",
+    "taskType": "hardware",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-08-14T19:24:52Z"
+  },
+  {
+    "client": "Lion Palomba",
+    "description": "septic leak",
+    "taskLocation": "Hongdun",
+    "taskType": "electrical",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-12-04T03:01:59Z"
+  },
+  {
+    "client": "Hasty Ciccoloi",
+    "description": "replace appliances",
+    "taskLocation": "Yuandianhui",
+    "taskType": "hardware",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-10-27T21:45:19Z"
+  },
+  {
+    "client": "Lacee Skene",
+    "description": "septic leak",
+    "taskLocation": "Daqian",
+    "taskType": "hardware",
+    "status": "rejected",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-12-18T07:36:36Z"
+  },
+  {
+    "client": "Eleanore Perrington",
+    "description": "late on payments",
+    "taskLocation": "Puncan",
+    "taskType": "billing",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-08-29T10:38:05Z"
+  },
+  {
+    "client": "Jacquelynn Hallewell",
+    "description": "replace locks",
+    "taskLocation": "Dongfanghong",
+    "taskType": "billing",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-10-30T04:56:05Z"
+  },
+  {
+    "client": "Denni Tupper",
+    "description": "power outage",
+    "taskLocation": "Cigebrok",
+    "taskType": "electrical",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-12-02T09:02:54Z"
+  },
+  {
+    "client": "Corrie Wittier",
+    "description": "septic leak",
+    "taskLocation": "Yanshou",
+    "taskType": "hardware",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-10-03T05:25:51Z"
+  },
+  {
+    "client": "Brandise Monnelly",
+    "description": "eviction notice",
+    "taskLocation": "Prusice",
+    "taskType": "electrical",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-12-09T19:23:38Z"
+  },
+  {
+    "client": "Emmey Redhead",
+    "description": "garbage pickup",
+    "taskLocation": "General Alvear",
+    "taskType": "billing",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-11-11T21:31:05Z"
+  },
+  {
+    "client": "Alexi Pottie",
+    "description": "replace appliances",
+    "taskLocation": "Yongfeng",
+    "taskType": "electrical",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-08-12T19:16:44Z"
+  },
+  {
+    "client": "Purcell Pfeffle",
+    "description": "eviction notice",
+    "taskLocation": "Belén",
+    "taskType": "electrical",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-07-09T06:54:05Z"
+  },
+  {
+    "client": "Konrad Gilffilland",
+    "description": "late on payments",
+    "taskLocation": "Brzączowice",
+    "taskType": "groundskeeping",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-11-16T01:06:37Z"
+  },
+  {
+    "client": "Mitchael Gammett",
+    "description": "replace locks",
+    "taskLocation": "Batanamang",
+    "taskType": "hardware",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-12-02T22:31:48Z"
+  },
+  {
+    "client": "Lusa Lettley",
+    "description": "tree removal",
+    "taskLocation": "Hushi",
+    "taskType": "billing",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-12-20T04:04:09Z"
+  },
+  {
+    "client": "Theresina Abramin",
+    "description": "septic leak",
+    "taskLocation": "Taverny",
+    "taskType": "electrical",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-08-05T13:21:58Z"
+  },
+  {
+    "client": "Brynne Klauer",
+    "description": "drywall patch",
+    "taskLocation": "Cikai",
+    "taskType": "electrical",
+    "status": "rejected",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-10-05T23:26:19Z"
+  },
+  {
+    "client": "Javier Christene",
+    "description": "tree removal",
+    "taskLocation": "Kafr Dān",
+    "taskType": "billing",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-10-26T04:48:57Z"
+  },
+  {
+    "client": "Gage Fonquernie",
+    "description": "power outage",
+    "taskLocation": "Dorval",
+    "taskType": "undefined",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-08-27T12:01:54Z"
+  },
+  {
+    "client": "Camey Hodgins",
+    "description": "property walk through",
+    "taskLocation": "Paraty",
+    "taskType": "billing",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-09-27T16:00:49Z"
+  },
+  {
+    "client": "Gelya Drewery",
+    "description": "tree removal",
+    "taskLocation": "Mazowe",
+    "taskType": "billing",
+    "status": "rejected",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-07-05T02:57:26Z"
+  },
+  {
+    "client": "Kayley Gainsburgh",
+    "description": "replace appliances",
+    "taskLocation": "Veiga",
+    "taskType": "groundskeeping",
+    "status": "rejected",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-07-24T17:22:05Z"
+  },
+  {
+    "client": "Urban Giovannoni",
+    "description": "tree removal",
+    "taskLocation": "Jiangtou",
+    "taskType": "undefined",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-11-25T21:13:39Z"
+  },
+  {
+    "client": "Eulalie Tivers",
+    "description": "roof repair",
+    "taskLocation": "Elói Mendes",
+    "taskType": "undefined",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-10-07T18:25:42Z"
+  },
+  {
+    "client": "Mirilla Waleran",
+    "description": "septic leak",
+    "taskLocation": "Yāsūf",
+    "taskType": "hardware",
+    "status": "rejected",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-12-30T18:00:05Z"
+  },
+  {
+    "client": "Averill Greensitt",
+    "description": "replace appliances",
+    "taskLocation": "Babagan",
+    "taskType": "hardware",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-09-09T14:56:30Z"
+  },
+  {
+    "client": "Raf Mahomet",
+    "description": "power outage",
+    "taskLocation": "La Molina",
+    "taskType": "hardware",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-07-11T14:19:33Z"
+  },
+  {
+    "client": "Hartwell Meiklem",
+    "description": "repair plumbing",
+    "taskLocation": "Maykopskoye",
+    "taskType": "groundskeeping",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-07-03T20:17:29Z"
+  },
+  {
+    "client": "Darcie Van Velden",
+    "description": "eviction notice",
+    "taskLocation": "Tissa",
+    "taskType": "billing",
+    "status": "rejected",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-12-30T04:43:52Z"
+  },
+  {
+    "client": "Tricia Muckley",
+    "description": "replace appliances",
+    "taskLocation": "Izbicko",
+    "taskType": "hardware",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-10-06T09:22:04Z"
+  },
+  {
+    "client": "Raimondo Gunney",
+    "description": "replace appliances",
+    "taskLocation": "Lhokkruet",
+    "taskType": "hardware",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-07-27T08:20:51Z"
+  },
+  {
+    "client": "Mikol Jeffrey",
+    "description": "roof repair",
+    "taskLocation": "Bulupayung",
+    "taskType": "billing",
+    "status": "rejected",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-11-09T06:22:07Z"
+  },
+  {
+    "client": "Chrissie O'Gavin",
+    "description": "drywall patch",
+    "taskLocation": "Phra Phutthabat",
+    "taskType": "electrical",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-11-13T17:32:07Z"
+  },
+  {
+    "client": "Shalna Zelland",
+    "description": "power outage",
+    "taskLocation": "Ibrā’",
+    "taskType": "electrical",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2023-01-06T03:46:14Z"
+  },
+  {
+    "client": "Milton Klaiser",
+    "description": "power outage",
+    "taskLocation": "Roma",
+    "taskType": "electrical",
+    "status": "rejected",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-08-13T07:08:57Z"
+  },
+  {
+    "client": "Lucius Lovering",
+    "description": "garbage pickup",
+    "taskLocation": "Semambung",
+    "taskType": "hardware",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-07-10T06:08:50Z"
+  },
+  {
+    "client": "Auria Giacobbo",
+    "description": "replace locks",
+    "taskLocation": "Juiz de Fora",
+    "taskType": "electrical",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-09-24T06:21:10Z"
+  },
+  {
+    "client": "Arvy Jovic",
+    "description": "property walk through",
+    "taskLocation": "Palon",
+    "taskType": "hardware",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-12-20T12:47:09Z"
+  },
+  {
+    "client": "Rouvin Dressell",
+    "description": "property walk through",
+    "taskLocation": "Presidente Epitácio",
+    "taskType": "electrical",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-09-23T00:57:32Z"
+  },
+  {
+    "client": "Isaak Galbreath",
+    "description": "garbage pickup",
+    "taskLocation": "Ban Talat Nua",
+    "taskType": "billing",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-07-03T13:14:46Z"
+  },
+  {
+    "client": "Janeczka Dunbobin",
+    "description": "garbage pickup",
+    "taskLocation": "Bagé",
+    "taskType": "billing",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-11-30T18:52:41Z"
+  },
+  {
+    "client": "Eilis Blowfield",
+    "description": "garbage pickup",
+    "taskLocation": "Upton",
+    "taskType": "groundskeeping",
+    "status": "rejected",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-09-24T08:09:17Z"
+  },
+  {
+    "client": "Tadio Cory",
+    "description": "property walk through",
+    "taskLocation": "Nilanapo",
+    "taskType": "undefined",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-08-23T07:37:16Z"
+  },
+  {
+    "client": "Fredek Braisted",
+    "description": "tree removal",
+    "taskLocation": "Hrochův Týnec",
+    "taskType": "billing",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-09-20T23:54:20Z"
+  },
+  {
+    "client": "Dolly Evens",
+    "description": "septic leak",
+    "taskLocation": "Huotian",
+    "taskType": "undefined",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-11-27T04:29:55Z"
+  },
+  {
+    "client": "Alicia Wycliffe",
+    "description": "late on payments",
+    "taskLocation": "Jitan",
+    "taskType": "groundskeeping",
+    "status": "rejected",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-11-30T17:34:05Z"
+  },
+  {
+    "client": "Sibelle Slora",
+    "description": "garbage pickup",
+    "taskLocation": "Ginowan",
+    "taskType": "billing",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-08-03T01:42:49Z"
+  },
+  {
+    "client": "Jo-anne Cauley",
+    "description": "property walk through",
+    "taskLocation": "Sukoanyar",
+    "taskType": "electrical",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2023-01-05T05:36:08Z"
+  },
+  {
+    "client": "Lowell O'Skehan",
+    "description": "eviction notice",
+    "taskLocation": "Ilebo",
+    "taskType": "groundskeeping",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-10-09T15:16:00Z"
+  },
+  {
+    "client": "Miquela Starrs",
+    "description": "garbage pickup",
+    "taskLocation": "Luis Donaldo Colosio",
+    "taskType": "electrical",
+    "status": "rejected",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-09-02T16:38:43Z"
+  },
+  {
+    "client": "Alva Turnpenny",
+    "description": "repair plumbing",
+    "taskLocation": "Kamigyō-ku",
+    "taskType": "billing",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-12-07T19:05:09Z"
+  },
+  {
+    "client": "Zorina Tansly",
+    "description": "eviction notice",
+    "taskLocation": "La Tour-du-Pin",
+    "taskType": "billing",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2023-01-04T12:11:55Z"
+  },
+  {
+    "client": "Gawain Sadry",
+    "description": "tree removal",
+    "taskLocation": "Longtian",
+    "taskType": "groundskeeping",
+    "status": "rejected",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-07-13T17:46:52Z"
+  },
+  {
+    "client": "Margarethe Ramshaw",
+    "description": "repair plumbing",
+    "taskLocation": "Armenia",
+    "taskType": "groundskeeping",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-11-12T08:46:16Z"
+  },
+  {
+    "client": "Eb Glaserman",
+    "description": "septic leak",
+    "taskLocation": "Longsha",
+    "taskType": "hardware",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-08-10T14:22:13Z"
+  },
+  {
+    "client": "Marie-jeanne Bullman",
+    "description": "property walk through",
+    "taskLocation": "Touguinha",
+    "taskType": "electrical",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-10-13T12:33:04Z"
+  },
+  {
+    "client": "Kylie Winn",
+    "description": "replace locks",
+    "taskLocation": "Cochrane",
+    "taskType": "groundskeeping",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2023-01-05T20:42:43Z"
+  },
+  {
+    "client": "Chrissy Devonside",
+    "description": "repair plumbing",
+    "taskLocation": "Hexi",
+    "taskType": "hardware",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-08-23T23:46:40Z"
+  },
+  {
+    "client": "Robenia Milbourn",
+    "description": "septic leak",
+    "taskLocation": "Choma",
+    "taskType": "electrical",
+    "status": "rejected",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-07-01T16:34:17Z"
+  },
+  {
+    "client": "Abigale Chastanet",
+    "description": "replace appliances",
+    "taskLocation": "Kristianstad",
+    "taskType": "undefined",
+    "status": "rejected",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-07-07T06:34:03Z"
+  },
+  {
+    "client": "Magda Braithwait",
+    "description": "drywall patch",
+    "taskLocation": "Trongsa",
+    "taskType": "groundskeeping",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-08-17T22:11:20Z"
+  },
+  {
+    "client": "Davina Dreier",
+    "description": "tree removal",
+    "taskLocation": "Sangke",
+    "taskType": "undefined",
+    "status": "rejected",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-09-28T21:00:17Z"
+  },
+  {
+    "client": "Ignaz Kondratowicz",
+    "description": "eviction notice",
+    "taskLocation": "Slovenj Gradec",
+    "taskType": "hardware",
+    "status": "rejected",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2023-01-02T16:20:30Z"
+  },
+  {
+    "client": "Ardelia Gallager",
+    "description": "tree removal",
+    "taskLocation": "Xianzong",
+    "taskType": "billing",
+    "status": "rejected",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-10-25T03:03:08Z"
+  },
+  {
+    "client": "Salomi Giorgini",
+    "description": "garbage pickup",
+    "taskLocation": "Gwaram",
+    "taskType": "undefined",
+    "status": "rejected",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-10-22T22:09:32Z"
+  },
+  {
+    "client": "Stepha Maria",
+    "description": "garbage pickup",
+    "taskLocation": "Lorient",
+    "taskType": "undefined",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-09-25T10:35:53Z"
+  },
+  {
+    "client": "Letisha Milbourne",
+    "description": "late on payments",
+    "taskLocation": "Chengnan",
+    "taskType": "undefined",
+    "status": "rejected",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-08-30T02:57:57Z"
+  },
+  {
+    "client": "Byrom Sherwin",
+    "description": "replace appliances",
+    "taskLocation": "Yangcun",
+    "taskType": "billing",
+    "status": "rejected",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-11-18T07:18:29Z"
+  },
+  {
+    "client": "Trey Flintoffe",
+    "description": "replace locks",
+    "taskLocation": "Bromma",
+    "taskType": "undefined",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-08-31T16:14:49Z"
+  },
+  {
+    "client": "Nana Lambswood",
+    "description": "eviction notice",
+    "taskLocation": "Longhua",
+    "taskType": "billing",
+    "status": "rejected",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-10-25T05:24:22Z"
+  },
+  {
+    "client": "Sadie Alldridge",
+    "description": "septic leak",
+    "taskLocation": "Åtvidaberg",
+    "taskType": "electrical",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-07-13T07:51:04Z"
+  },
+  {
+    "client": "Ferd Shaudfurth",
+    "description": "septic leak",
+    "taskLocation": "Huicungo",
+    "taskType": "billing",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-07-09T23:52:14Z"
+  },
+  {
+    "client": "Klara Barclay",
+    "description": "roof repair",
+    "taskLocation": "Fuling",
+    "taskType": "hardware",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-08-28T18:43:59Z"
+  },
+  {
+    "client": "Lauryn Albany",
+    "description": "garbage pickup",
+    "taskLocation": "Isakly",
+    "taskType": "hardware",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-11-07T15:40:03Z"
+  },
+  {
+    "client": "Jaynell Kinsella",
+    "description": "septic leak",
+    "taskLocation": "Honolulu",
+    "taskType": "billing",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-09-06T21:53:31Z"
+  },
+  {
+    "client": "Weber Melloi",
+    "description": "late on payments",
+    "taskLocation": "Mospyne",
+    "taskType": "billing",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-07-31T03:39:24Z"
+  },
+  {
+    "client": "Kylynn Paddy",
+    "description": "replace appliances",
+    "taskLocation": "Peddie",
+    "taskType": "electrical",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-08-17T04:23:36Z"
+  },
+  {
+    "client": "Desmond Jorcke",
+    "description": "garbage pickup",
+    "taskLocation": "Novoarkhanhel’s’k",
+    "taskType": "electrical",
+    "status": "pending",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-12-03T02:40:24Z"
+  },
+  {
+    "client": "Zitella Pidcock",
+    "description": "late on payments",
+    "taskLocation": "Rzewnie",
+    "taskType": "electrical",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-08-14T14:45:43Z"
+  },
+  {
+    "client": "Angeli Wetherick",
+    "description": "tree removal",
+    "taskLocation": "Uinskoye",
+    "taskType": "hardware",
+    "status": "rejected",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-08-18T15:07:37Z"
+  },
+  {
+    "client": "Zacherie Ghiotto",
+    "description": "repair plumbing",
+    "taskLocation": "Santander",
+    "taskType": "electrical",
+    "status": "rejected",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2023-01-06T20:00:40Z"
+  },
+  {
+    "client": "Adelaide Gilding",
+    "description": "drywall patch",
+    "taskLocation": "Jinquan",
+    "taskType": "hardware",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-10-14T23:04:19Z"
+  },
+  {
+    "client": "El Jeffryes",
+    "description": "late on payments",
+    "taskLocation": "Chat Trakan",
+    "taskType": "hardware",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-09-05T02:32:40Z"
+  },
+  {
+    "client": "Bell Domb",
+    "description": "eviction notice",
+    "taskLocation": "Huikou",
+    "taskType": "hardware",
+    "status": "completed",
+    "createdBy": "63bbda1a450b781d29a6eacd",
+    "createdAt": "2022-08-24T14:55:46Z"
+  }
+]
